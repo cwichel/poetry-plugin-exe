@@ -1,1 +1,0 @@
-# cwichel.poetry-plugin-exe
