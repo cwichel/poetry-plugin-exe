@@ -41,3 +41,4 @@ poetry              = "^1.2.0b1"
 exe  = "poetry_plugin_exe:PoetryPluginExe"
 
 [tool.poetry-plugin-exe.commands]
+test = "TBD"
